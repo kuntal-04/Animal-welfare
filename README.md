@@ -4,19 +4,17 @@
 PawsProtect is an Animal Welfare Platform designed to help users report animal issues, access pet care resources, and connect with veterinarians and shelters. It aims to promote the well-being of animals through technology-driven solutions.
 
 ## Key Features 🌟
-- Report stray, injured, or lost animals.
-- Pet adoption and fostering platform.
-- Access veterinary services and shelter information.
-- Pet training guidance (AI-powered suggestions, voice command recognition, video tutorials).
-- Real-time notifications and updates.
-- Community forums and support groups.
+- Report injured, lost, or stray animals
+- Pet adoption and fostering
+- Access to veterinary services
+- AI-powered pet training guidance
+- Community support and forums
 
 ## Tech Stack 🛠️ 
-- **Frontend:** [mention if you're using Flutter, React Native, etc.]
-- **Backend:** Supabase, PostgreSQL
-- **APIs:** Maps Integration (for locating nearby services)
-- **Authentication:** Supabase Auth
-- **AI Features:** [if applicable, mention used libraries/models]
+- **Frontend:** [React native, typescript]
+- **Backend:** Firebase
+- **Authentication:** Firebase Auth
+- **AI Features:** [AI chatbot]
 
 ## Installation and Setup 📂
 1. Clone the repository:
@@ -33,5 +31,3 @@ PawsProtect is an Animal Welfare Platform designed to help users report animal i
    ```bash
    npm run dev
    ```
-
-Would you also like a shorter "student project" version if you're submitting it for academic purposes? 🎓
