@@ -19,7 +19,7 @@ PawsProtect is an Animal Welfare Platform designed to help users report animal i
 ## Installation and Setup 📂
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/PawsProtect.git
+   git clone (https://github.com/kuntal-04/Animal-welfare.git)
    ```
 2. Install dependencies:
    ```bash
